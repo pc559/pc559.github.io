@@ -6,7 +6,7 @@ description: PhD student
 
 # User settings
 username: Philip Clarke
-user_description: I'm currently finishing a PhD in early universe cosmology, at the University of Cambridge. I enjoy physics, coding and communication, sometimes all at the same time. Here's my <p><a href="documents/website_cv.pdf">CV</a></p>.
+user_description: I'm currently finishing a PhD in early universe cosmology, at the University of Cambridge. I enjoy physics, coding and communication, sometimes all at the same time. Here's my <a href="documents/website_cv.pdf">CV</a>.
 user_title: PhD student
 email: clarkeph@tcd.ie
 # twitter_username: lorem_ipsum
