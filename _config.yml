@@ -1,12 +1,12 @@
 # Site settings
 title: Philip Clarke
-description: PhD student
+description: Data science, computational cosmology
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Philip Clarke
-user_description: I'm currently finishing a PhD in early universe cosmology, at the University of Cambridge. I enjoy physics, coding and communication, sometimes all at the same time. Here is part of my <a href="documents/website_cv.pdf">CV</a> (full CV upon request).
+user_description: I'm currently finishing a PhD in computational cosmology, at the University of Cambridge. I enjoy physics, coding and communication, sometimes all at the same time. Here is part of my <a href="documents/website_cv.pdf">CV</a> (full CV upon request).
 user_title: PhD student
 email: clarkeph@tcd.ie
 # twitter_username: lorem_ipsum
