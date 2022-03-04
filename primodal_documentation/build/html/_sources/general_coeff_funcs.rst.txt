@@ -1,0 +1,7 @@
+general\_coeff\_funcs module
+============================
+
+.. automodule:: general_coeff_funcs
+    :members:
+    :undoc-members:
+    :show-inheritance:
